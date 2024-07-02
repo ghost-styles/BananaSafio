@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "size-walnut.gl.joinmc.link",
-          "assigned_srv": "size-walnut.gl.joinmc.link",
+          "assigned_domain": "address-situations.gl.joinmc.link",
+          "assigned_srv": "address-situations.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "9f2614b5-e129-4aaa-b3e6-b9b032ba58f4",
+          "id": "7ee92f0f-c843-4e2c-86d6-da2e30b1321b",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 48104,
-          "port_start": 48103,
+          "port_end": 55225,
+          "port_start": 55224,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-29T03:43:20.508221Z",
+      "created_at": "2024-07-02T05:37:24.103992Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "69696eac-005f-4d4c-9b18-0db795245e39",
+      "id": "c4e886e9-fc75-4ea0-ae45-e02e95c96690",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "ec724ebb-26a1-4c13-b215-ef8f0e936f3f",
-          "agent_name": "BananaSafio",
+          "agent_id": "2c3864ad-98af-44da-a1a2-c3705e791fc1",
+          "agent_name": "from-key-76ec",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
